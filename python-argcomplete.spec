@@ -13,7 +13,7 @@ Summary(pl.UTF-8):	Bashowe dopełnianie parametrów dla argparse
 Name:		python-%{pypi_name}
 # keep 1.12.x here for python2 support
 Version:	1.12.3
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://github.com/kislyuk/argcomplete/releases
